@@ -1,6 +1,6 @@
 import Image from "next/image"
 import {cn} from "@/lib/utils";
-import {collapsableVariants} from "@/components/ui/Collapsable";
+import collapsableVariants from "@/components/ui/Collapsable";
 import {textVariants} from "@/components/ui/Text";
 import LargeHeading from "@/components/ui/LargeHeading";
 import { Radon } from '@/components/svgs'
